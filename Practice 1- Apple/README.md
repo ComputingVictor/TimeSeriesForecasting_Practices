@@ -37,7 +37,7 @@ In addition, we must answer the following questions:
 
 - `images`: Pictures used for the practice.
 
-- `notebooks`: Notebooks with the code used.
+- `notebooks`: Notebooks with the used code.
 
 
 ## Contact
