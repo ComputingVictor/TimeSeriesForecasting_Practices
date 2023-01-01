@@ -37,14 +37,14 @@ In addition, we must answer the following questions:
 
 - `images`: Pictures used for the practice.
 
-- `notebooks`: Notebokks with the code used.
+- `notebooks`: Notebooks with the used code.
 
 
 ## Contact
 
 Víctor Viloria Vázquez - <victor.viloria@cunef.edu>
 
-Project Link: <https://github.com/ComputingVictor/ETL_Practices>
+Project Link: <https://github.com/ComputingVictor/TimeSeriesForecasting_Practices>
 
 LinkedIn - <https://www.linkedin.com/in/vicviloria/>
 
