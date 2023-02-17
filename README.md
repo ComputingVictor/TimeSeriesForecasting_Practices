@@ -24,6 +24,9 @@ This repository will include the evaluable practices of the subject 'Time Series
 
 - `Practice 2- StackOverflow`:  In this practice we will carry out an analysis of the evolution of the questions related to 'Matlab', we will test different models and we will build a predictive model of time series with the one that has given us the best result. In addition, we must solve some specific objectives.
 
+- `Practice 3 (Final)- TOSCOS`:  This is the final practice of the subject, valuable as an exam. It's similar to the Rossman Store Sales exercise of Kaggle, but with synthetic values.
+
+
 
 ## Contact
 
